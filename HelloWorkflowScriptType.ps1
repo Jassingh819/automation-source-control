@@ -1,4 +1,4 @@
-workflow helloworkflow
+workflow HelloWorkflowScriptType
 {
     "hello ji!"
 }

@@ -1,4 +1,4 @@
 workflow HelloWorkflowScriptType
 {
-    "hello ji!"
+    "hello ji! 22"
 }

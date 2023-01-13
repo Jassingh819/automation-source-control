@@ -7,7 +7,7 @@ param(
     [ValidateNotNullOrEmpty()]
     [String] $ComputerRename_computerName
 )
-    # resource import
+    # resource import test source control
 	Import-DscResource –ModuleName StateConfigCompositeResources
 
     Node local {
